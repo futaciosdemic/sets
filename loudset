@@ -1,0 +1,4 @@
+Preamp: 100 dB
+VSTPlugin: Library saturator.dll ChunkData "U29ycnksIEkgc2F0dXJhdG9yIHRvIGFkZCB0aGUgc2F0dXJhdG9yIG9mIHRoZSBzdWJzdGF1dG9y"
+Filter: ON PK Fc 700 Hz Gain 50 dB Q 2.5
+Filter: ON LPF Fc 1000 Hz Q 3.0
