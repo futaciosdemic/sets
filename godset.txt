@@ -1,0 +1,5 @@
+Filter: ON HPQ Fc 486.44 Hz Q 5.9547
+Preamp: 200 dB
+Filter: ON LPQ Fc 310.48 Hz Q 7.4622
+VSTPlugin: Library pitchproof-x64.dll ChunkData "MC4wMDAsMC4wMTAsMC4wNzAsMC4xMTgsMC4wMDAsMC4wMDAsMC4wMDAsMC4wMDAA"
+Preamp: 200 dB
