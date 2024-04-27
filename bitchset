@@ -1,0 +1,4 @@
+Preamp: 50 dB
+VSTPlugin: Library gate.dll ChunkData "U29ycnksIEkgZ2F0ZSB0aGUgZ2F0ZSBvZiB0aGUgY2hpbGQ="
+Filter: ON PK Fc 600 Hz Gain 40 dB Q 2.0
+Filter: ON HPF Fc 80 Hz Q 2.5
